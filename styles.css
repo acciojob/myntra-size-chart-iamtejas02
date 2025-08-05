@@ -1,2 +1,11 @@
+table{
+	width : 100%
+}
 
-/* Your CSS Code here. */
+td {
+  text-align: left; /* Default for all */
+}
+
+td.num {
+  text-align: right; /* Only numeric cells */
+}
