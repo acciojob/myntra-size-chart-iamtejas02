@@ -1,11 +1,9 @@
-table{
-	width : 100%
+/* Your CSS Code here. */
+.heading{
+	background-color: ;
 }
 
-td {
-  text-align: left; /* Default for all */
-}
-
-td.num {
-  text-align: right; /* Only numeric cells */
+td{
+	width:150px;
+	height:15px;
 }
